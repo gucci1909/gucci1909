@@ -11,8 +11,6 @@
 - 💬 Ask me about **Reactjs,MongoDB,Express,Node.js.**
 
 - 📫 How to reach me **umangarora0134@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
