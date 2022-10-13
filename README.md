@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umang Arora</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding"  width="400' src="https://raw.githubusercontent.com/masai-course/Umang_fp03_298/master/unit-4/sprint-1/day-1/we/coding.gif?token=GHSAT0AAAAAABYMKQIJ3EGGUK2TQWEIZBC6Y2IA4PQ" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gucci1909&label=Profile%20views&color=0e75b6&style=flat" alt="gucci1909" /> </p>
 
