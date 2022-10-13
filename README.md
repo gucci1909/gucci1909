@@ -12,7 +12,8 @@
 
 - 📫 How to reach me **umangarora0134@gmail.com**
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umang-arora-full-stack-developer) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umang-arora-full-stack-developer)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/UmangAr34) 
 # 📊 GitHub Stats:
 <p align="left">
 </p>
