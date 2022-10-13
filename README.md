@@ -11,7 +11,8 @@
 - 💬 Ask me about **Reactjs,MongoDB,Express,Node.js.**
 
 - 📫 How to reach me **umangarora0134@gmail.com**
-- [<img src='https://user-images.githubusercontent.com/104164939/195593352-a480bed0-9b98-4889-929c-180c7df958d7.png
+- [<img src='![image](https://user-images.githubusercontent.com/104164939/195593474-1dd3a2b7-eb5a-4ae8-aa76-4a40f3284d62.png)
+
 ' alt='linkedin' height='40'>](https://www.linkedin.com/in/umang-arora-full-stack-developer/)  
 <p align="left">
 </p>
