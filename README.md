@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gucci1909&label=Profile%20views&color=0e75b6&style=flat" alt="gucci1909" /> </p>
 
-- 🌱 I’m currently learning **MongoDB , Express JS**
+- 🌱 I’m currently learning **MongoDB , Redux**
 
 - 👨‍💻 All of my projects are available at [https://gucci1909.github.io/](https://gucci1909.github.io/)
 
