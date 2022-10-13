@@ -14,7 +14,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umang-arora-full-stack-developer) 
 # 📊 GitHub Stats:
-' alt='linkedin' height='40'>](https://www.linkedin.com/in/umang-arora-full-stack-developer/)  
 <p align="left">
 </p>
 
