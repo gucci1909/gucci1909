@@ -14,7 +14,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umang-arora-full-stack-developer)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/UmangAr34) 
-# 📊 GitHub Stats:
+
 <p align="left">
 </p>
 
@@ -34,7 +34,7 @@
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a></p>
-
+# 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gucci1909&show_icons=true&locale=en&layout=compact" alt="gucci1909" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gucci1909&show_icons=true&locale=en" alt="gucci1909" /></p>
