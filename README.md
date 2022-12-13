@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://gucci1909.github.io/)
 
-- 💬 Ask me about **Reactjs , Typescript , Express , Node.js.**
+- 💬 Ask me about **Reactjs , Express , Node.js.**
 
 - 📫 How to reach me **umangarora0134@gmail.com**
 ## 🌐 Socials:
