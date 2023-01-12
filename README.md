@@ -72,12 +72,12 @@
   
 <!--   ![Termux Logo](https://user-images.githubusercontent.com/72879799/153904003-d7dee710-6552-4d23-a803-7a9a0ba67d92.png#gh-dark-mode-only)
 ![Termux Logo](https://user-images.githubusercontent.com/72879799/153904095-9d78a019-8495-4035-8174-e3da8e4dd66b.png#gh-light-mode-only) -->
-<p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gucci1909&layout=compact&langs_count=5&theme=light#gh-light-mode-only" alt="gucci1909" /></p>
+<p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gucci1909&layout=compact&langs_count=5&theme=light" alt="gucci1909" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gucci1909&show_icons=true&theme=light&include_all_commits=true&count_private=true#gh-light-mode-only" alt="gucci1909" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gucci1909&show_icons=true&theme=light&include_all_commits=true&count_private=true" alt="gucci1909" /></p>
 
-<!--   <p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gucci1909&layout=compact&langs_count=5&theme=dark#gh-dark-mode-only" alt="gucci1909" /></p>
+<!--   <p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gucci1909&layout=compact&langs_count=5&theme=dark" alt="gucci1909" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gucci1909&show_icons=true&theme=dark&include_all_commits=true&count_private=true#gh-dark-mode-only" alt="gucci1909" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gucci1909&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="gucci1909" /></p> -->
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gucci1909" alt="gucci1909" /></p>
