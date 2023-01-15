@@ -67,7 +67,8 @@
 
 
 ## 📊 GitHub Stats:
-
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gucci1909&layout=compact&show_icon=true&theme=white" alt="gucci1909"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=gucci1909&layout=compact&show_icon=true&theme=algolia" alt="gucci1909"/>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gucci1909&show_icons=true&locale=en&layout=compact" alt="gucci1909" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gucci1909&show_icons=true&count_private=true" alt="gucci1909" /></p> -->
