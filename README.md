@@ -76,8 +76,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gucci1909&show_icons=true&theme=light&include_all_commits=true&count_private=true" alt="gucci1909" /></p>
 
-<!--   <p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gucci1909&layout=compact&langs_count=5&theme=dark" alt="gucci1909" /></p>
+  <p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gucci1909&layout=compact&langs_count=5&theme=dark" alt="gucci1909" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gucci1909&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="gucci1909" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gucci1909&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="gucci1909" /></p>
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gucci1909" alt="gucci1909" /></p>
