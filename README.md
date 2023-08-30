@@ -8,11 +8,11 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://gucci1909.github.io/)
 
-- <img align="right" alt="coding" height=10 width=10  src="https://github.com/gucci1909/gucci1909/assets/104164939/1a572266-8a8a-4b3f-8dbd-f503edfe6ebf" /> This is my [My LeetCode](https://leetcode.com/umangar34/)
-
 - 💬 Ask me about **Reactjs , Express , Node.js.**
 
--  📄 This is [My Resume](https://drive.google.com/file/d/1l2auTG-h8D4ezlrFBHZDwehCo-mVuDAp/view?usp=drive_link)
+- 📄 This is [My Resume](https://drive.google.com/file/d/1l2auTG-h8D4ezlrFBHZDwehCo-mVuDAp/view?usp=drive_link)
+
+- 👨‍💻 This is my [My LeetCode Account](https://leetcode.com/umangar34/)
 
 - 📫 How to reach me **umangarora0134@gmail.com**
 ## 🌐 Socials:
