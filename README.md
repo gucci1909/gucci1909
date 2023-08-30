@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Reactjs , Express , Node.js.**
 
--  📄 This is [My Resume](https://drive.google.com/file/d/1SQs2c-fuMRgLGqSLespyhs_ZgBx6T1jk/view?usp=sharing)
+-  📄 This is [My Resume](https://drive.google.com/file/d/1l2auTG-h8D4ezlrFBHZDwehCo-mVuDAp/view?usp=drive_link)
 
 - 📫 How to reach me **umangarora0134@gmail.com**
 ## 🌐 Socials:
