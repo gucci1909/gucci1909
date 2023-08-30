@@ -8,8 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://gucci1909.github.io/)
 
-- <img align="right" alt="coding" borderRadius="20"  width="400" src="https://github.com/gucci1909/gucci1909/assets/104164939/1a572266-8a8a-4b3f-8dbd-f503edfe6ebf" /> 
- This is my [My LeetCode](https://leetcode.com/umangar34/)
+- <img align="right" alt="coding" height=10 width=10  src="https://github.com/gucci1909/gucci1909/assets/104164939/1a572266-8a8a-4b3f-8dbd-f503edfe6ebf" /> This is my [My LeetCode](https://leetcode.com/umangar34/)
 
 - 💬 Ask me about **Reactjs , Express , Node.js.**
 
