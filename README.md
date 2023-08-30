@@ -8,7 +8,8 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://gucci1909.github.io/)
 
-- <a href="https://iconscout.com/icons/leetcode" target="_blank">Free Leetcode Icon</a> by <a href="https://iconscout.com/contributors/icon-54">Icon 54</a> on <a href="https://iconscout.com">IconScout</a> This is my [My LeetCode](https://leetcode.com/umangar34/)
+- ![image](https://github.com/gucci1909/gucci1909/assets/104164939/1a572266-8a8a-4b3f-8dbd-f503edfe6ebf)
+ This is my [My LeetCode](https://leetcode.com/umangar34/)
 
 - 💬 Ask me about **Reactjs , Express , Node.js.**
 
