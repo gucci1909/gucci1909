@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://gucci1909.github.io/)
 
-- 💬 Ask me about **Reactjs , Express , Node.js.**
+- 💬 Ask me about **Reactjs , CPP, Node.js.**
 
 - 📄 This is [My Resume](https://drive.google.com/file/d/1l2auTG-h8D4ezlrFBHZDwehCo-mVuDAp/view?usp=drive_link)
 
