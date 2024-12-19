@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Reactjs, CPP, Node.js.**
 
-- 📄 This is [My Resume](https://drive.google.com/file/d/1ScEPKiJirEKshF5AGncuwlZ5K9NFjTGr/view?usp=sharing)
+- 📄 This is [My Resume](https://drive.google.com/file/d/1XVOn6mPBah2dCUDK9rxt87Ljx-sBZnBA/view?usp=sharing)
 
 - 👨‍💻 This is my [My LeetCode Account](https://leetcode.com/umangar34/)
 
